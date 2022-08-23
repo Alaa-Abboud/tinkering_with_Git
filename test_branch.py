@@ -1,4 +1,4 @@
-def useless_branch_fct();
+def useless_branch_fct():
     '''
     This is a useless function. 
     '''
